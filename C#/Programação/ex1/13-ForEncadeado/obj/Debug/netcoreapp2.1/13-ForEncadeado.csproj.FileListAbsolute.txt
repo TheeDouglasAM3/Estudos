@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\bin\Debug\netcoreapp2.1\13-ForEncadeado.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\bin\Debug\netcoreapp2.1\13-ForEncadeado.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\bin\Debug\netcoreapp2.1\13-ForEncadeado.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\bin\Debug\netcoreapp2.1\13-ForEncadeado.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\bin\Debug\netcoreapp2.1\13-ForEncadeado.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\obj\Debug\netcoreapp2.1\13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\obj\Debug\netcoreapp2.1\13-ForEncadeado.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\obj\Debug\netcoreapp2.1\13-ForEncadeado.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\obj\Debug\netcoreapp2.1\13-ForEncadeado.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\13-ForEncadeado\obj\Debug\netcoreapp2.1\13-ForEncadeado.pdb

@@ -1,0 +1,11 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\bin\Debug\netcoreapp2.1\9-Escopo.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\bin\Debug\netcoreapp2.1\9-Escopo.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\bin\Debug\netcoreapp2.1\9-Escopo.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\bin\Debug\netcoreapp2.1\9-Escopo.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\bin\Debug\netcoreapp2.1\9-Escopo.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\obj\Debug\netcoreapp2.1\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\obj\Debug\netcoreapp2.1\9-Escopo.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\obj\Debug\netcoreapp2.1\9-Escopo.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\obj\Debug\netcoreapp2.1\9-Escopo.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\obj\Debug\netcoreapp2.1\9-Escopo.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\9-Escopo\obj\Debug\netcoreapp2.1\9-Escopo.csprojAssemblyReference.cache

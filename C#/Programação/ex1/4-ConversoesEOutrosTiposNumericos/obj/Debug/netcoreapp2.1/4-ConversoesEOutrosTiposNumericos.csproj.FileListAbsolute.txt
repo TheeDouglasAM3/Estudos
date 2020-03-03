@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.1\4-ConversoesEOutrosTiposNumericos.pdb

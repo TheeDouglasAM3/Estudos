@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\bin\Debug\netcoreapp2.1\10-While.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\bin\Debug\netcoreapp2.1\10-While.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\bin\Debug\netcoreapp2.1\10-While.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\bin\Debug\netcoreapp2.1\10-While.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\bin\Debug\netcoreapp2.1\10-While.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\obj\Debug\netcoreapp2.1\10-While.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\obj\Debug\netcoreapp2.1\10-While.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\obj\Debug\netcoreapp2.1\10-While.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\obj\Debug\netcoreapp2.1\10-While.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\10-While\obj\Debug\netcoreapp2.1\10-While.pdb

@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.1\6-AtribuicoesDeVariaveis.pdb

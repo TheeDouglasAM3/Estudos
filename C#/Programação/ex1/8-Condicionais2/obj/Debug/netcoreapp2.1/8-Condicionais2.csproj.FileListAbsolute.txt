@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\bin\Debug\netcoreapp2.1\8-Condicionais2.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\bin\Debug\netcoreapp2.1\8-Condicionais2.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\bin\Debug\netcoreapp2.1\8-Condicionais2.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\bin\Debug\netcoreapp2.1\8-Condicionais2.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\bin\Debug\netcoreapp2.1\8-Condicionais2.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\obj\Debug\netcoreapp2.1\8-Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\obj\Debug\netcoreapp2.1\8-Condicionais2.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\obj\Debug\netcoreapp2.1\8-Condicionais2.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\obj\Debug\netcoreapp2.1\8-Condicionais2.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\8-Condicionais2\obj\Debug\netcoreapp2.1\8-Condicionais2.pdb

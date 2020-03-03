@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\bin\Debug\netcoreapp2.1\2-CriandoVariaveis.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\bin\Debug\netcoreapp2.1\2-CriandoVariaveis.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\bin\Debug\netcoreapp2.1\2-CriandoVariaveis.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\bin\Debug\netcoreapp2.1\2-CriandoVariaveis.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\bin\Debug\netcoreapp2.1\2-CriandoVariaveis.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\obj\Debug\netcoreapp2.1\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\obj\Debug\netcoreapp2.1\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\obj\Debug\netcoreapp2.1\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\obj\Debug\netcoreapp2.1\2-CriandoVariaveis.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\2-CriandoVariaveis\obj\Debug\netcoreapp2.1\2-CriandoVariaveis.pdb

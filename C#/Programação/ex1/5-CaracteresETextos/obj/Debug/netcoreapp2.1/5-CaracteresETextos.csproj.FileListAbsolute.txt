@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\bin\Debug\netcoreapp2.1\5-CaracteresETextos.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\bin\Debug\netcoreapp2.1\5-CaracteresETextos.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\bin\Debug\netcoreapp2.1\5-CaracteresETextos.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\bin\Debug\netcoreapp2.1\5-CaracteresETextos.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\bin\Debug\netcoreapp2.1\5-CaracteresETextos.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\obj\Debug\netcoreapp2.1\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\obj\Debug\netcoreapp2.1\5-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\obj\Debug\netcoreapp2.1\5-CaracteresETextos.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\obj\Debug\netcoreapp2.1\5-CaracteresETextos.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\5-CaracteresETextos\obj\Debug\netcoreapp2.1\5-CaracteresETextos.pdb

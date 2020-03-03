@@ -1,0 +1,7 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ByteBankCSharp\A01-ByteBank\bin\Debug\A01-ByteBank.exe.config
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ByteBankCSharp\A01-ByteBank\bin\Debug\A01-ByteBank.exe
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ByteBankCSharp\A01-ByteBank\bin\Debug\A01-ByteBank.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ByteBankCSharp\A01-ByteBank\obj\Debug\A01-ByteBank.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ByteBankCSharp\A01-ByteBank\obj\Debug\A01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ByteBankCSharp\A01-ByteBank\obj\Debug\A01-ByteBank.exe
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ByteBankCSharp\A01-ByteBank\obj\Debug\A01-ByteBank.pdb

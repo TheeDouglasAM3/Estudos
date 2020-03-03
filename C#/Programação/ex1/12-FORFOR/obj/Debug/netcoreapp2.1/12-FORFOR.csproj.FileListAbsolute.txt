@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\bin\Debug\netcoreapp2.1\12-FORFOR.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\bin\Debug\netcoreapp2.1\12-FORFOR.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\bin\Debug\netcoreapp2.1\12-FORFOR.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\bin\Debug\netcoreapp2.1\12-FORFOR.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\bin\Debug\netcoreapp2.1\12-FORFOR.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\obj\Debug\netcoreapp2.1\12-FORFOR.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\obj\Debug\netcoreapp2.1\12-FORFOR.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\obj\Debug\netcoreapp2.1\12-FORFOR.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\obj\Debug\netcoreapp2.1\12-FORFOR.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\ex1\12-FORFOR\obj\Debug\netcoreapp2.1\12-FORFOR.pdb
