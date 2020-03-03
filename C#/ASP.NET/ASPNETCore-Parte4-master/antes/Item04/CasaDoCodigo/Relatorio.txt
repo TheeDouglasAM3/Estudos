@@ -1,0 +1,51 @@
+=============================================
+No. Pedido: 01002
+Cliente: 
+    Nome: Alice Smith
+    Endereco: rua vergueiro, 1234567 fundos vila mariana são paulo SP
+    Fone: 1234-5678
+    Email: alice@smith.com
+    Total: R$ 49,90
+Itens:
+
+    Código: 183
+    Preco Unitário: R$ 49,90
+    Descrição: eXtreme Programming: Práticas para o dia a dia no desenvolvimento ágil de software
+    Quantidade: 001
+    Subtotal: R$ 49,90
+=============================================
+
+=============================================
+No. Pedido: 02002
+Cliente: 
+    Nome: Alice Smith
+    Endereco: rua vergueiro, 1234567 fundos vila mariana são paulo SP
+    Fone: 1234-5678
+    Email: alice@smith.com
+    Total: R$ 299,40
+Itens:
+
+    Código: 181
+    Preco Unitário: R$ 49,90
+    Descrição: Agile: Desenvolvimento de software com entregas frequentes e foco no valor de negócio
+    Quantidade: 006
+    Subtotal: R$ 299,40
+=============================================
+
+=============================================
+No. Pedido: 02003
+Cliente: 
+    Nome: Alice Smith
+    Endereco: rua vergueiro, 1234567 fundos vila mariana são paulo SP
+    Fone: 1234-5678
+    Email: alice@smith.com
+    Total: R$ 49,90
+Itens:
+
+    Código: 182
+    Preco Unitário: R$ 49,90
+    Descrição: Métricas Ágeis: Obtenha melhores resultados em sua equipe
+    Quantidade: 001
+    Subtotal: R$ 49,90
+=============================================
+

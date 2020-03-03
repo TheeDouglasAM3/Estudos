@@ -1,0 +1,17 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.csproj.CopyComplete
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Tests.pdb

@@ -1,0 +1,41 @@
+2020-01-28 14:18:27.126 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-28 14:18:27.274 -03:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2020-01-28 14:18:27.284 -03:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2020-01-28 14:18:27.285 -03:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2020-01-28 14:18:27.290 -03:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2020-01-28 14:18:27.290 -03:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2020-01-28 14:18:27.291 -03:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2020-01-28 14:18:28.894 -03:00 [DBG] Login Url: /Account/Login
+2020-01-28 14:18:28.898 -03:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-28 14:18:28.899 -03:00 [DBG] Logout Url: /Account/Logout
+2020-01-28 14:18:28.899 -03:00 [DBG] ConsentUrl Url: /consent
+2020-01-28 14:18:28.899 -03:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-28 14:18:28.899 -03:00 [DBG] Error Url: /home/error
+2020-01-28 14:18:28.900 -03:00 [DBG] Error Id Parameter: errorId
+2020-01-28 14:19:39.334 -03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2020-01-28 14:20:00.381 -03:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-01-28 14:20:02.927 -03:00 [DBG] Augmenting SignInContext
+2020-01-28 14:20:02.933 -03:00 [DBG] Adding idp claim with value: local
+2020-01-28 14:20:02.933 -03:00 [DBG] Adding amr claim with value: pwd
+2020-01-28 14:20:02.934 -03:00 [DBG] Adding auth_time claim with value: 1580232002
+2020-01-28 14:20:02.963 -03:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2020-01-28 14:20:03.012 -03:00 [INF] {"Username":"alice","Provider":null,"ProviderUserId":null,"SubjectId":"96ca351a-f830-4f2c-a378-145f3f7754ca","DisplayName":"alice","Endpoint":"UI","Category":"Authentication","Name":"User Login Success","EventType":"Success","Id":1000,"Message":null,"ActivityId":"0HLT42OBK5ANE:00000003","TimeStamp":"2020-01-28T17:20:02.0000000Z","ProcessId":15340,"LocalIpAddress":"127.0.0.1:37533","RemoteIpAddress":"::1","$type":"UserLoginSuccessEvent"}
+2020-01-28 14:20:42.739 -03:00 [DBG] CORS request made for path: /Account/Logout from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-01-28 14:20:42.789 -03:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2020-01-28 14:20:42.790 -03:00 [INF] AuthenticationScheme: Identity.External signed out.
+2020-01-28 14:20:42.791 -03:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2020-01-28 14:20:42.794 -03:00 [INF] {"SubjectId":"96ca351a-f830-4f2c-a378-145f3f7754ca","DisplayName":"Alice Smith","Category":"Authentication","Name":"User Logout Success","EventType":"Success","Id":1002,"Message":null,"ActivityId":"0HLT42OBK5ANE:00000006","TimeStamp":"2020-01-28T17:20:42.0000000Z","ProcessId":15340,"LocalIpAddress":"127.0.0.1:37533","RemoteIpAddress":"::1","$type":"UserLogoutSuccessEvent"}
+2020-01-28 18:51:11.867 -03:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2020-01-28 18:51:11.937 -03:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2020-01-28 18:51:11.943 -03:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2020-01-28 18:51:11.944 -03:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2020-01-28 18:51:11.944 -03:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2020-01-28 18:51:11.944 -03:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2020-01-28 18:51:11.944 -03:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2020-01-28 18:51:12.815 -03:00 [DBG] Login Url: /Account/Login
+2020-01-28 18:51:12.818 -03:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-01-28 18:51:12.819 -03:00 [DBG] Logout Url: /Account/Logout
+2020-01-28 18:51:12.819 -03:00 [DBG] ConsentUrl Url: /consent
+2020-01-28 18:51:12.819 -03:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-01-28 18:51:12.819 -03:00 [DBG] Error Url: /home/error
+2020-01-28 18:51:12.819 -03:00 [DBG] Error Id Parameter: errorId

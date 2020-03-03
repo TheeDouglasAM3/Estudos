@@ -1,0 +1,6 @@
+﻿
+    Código: {0:00000}
+    Preco Unitário: {1:C2}
+    Descrição: {2}
+    Quantidade: {3:000}
+    Subtotal: {4:C2}

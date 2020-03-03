@@ -1,0 +1,12 @@
+﻿@addTagHelper *, CasaDoCodigo.MVC
+@using CasaDoCodigo.Areas.Catalogo.Models.ViewModels
+@model CarrosselPaginaViewModel
+
+<div class="item @(Model.Indice == 0 ? "active" : "")">
+    <div class="row">
+        @foreach (var produto in Model.Produtos)
+        {
+            <vc:produto-card produto="@produto"/>
+        }
+    </div>
+</div>

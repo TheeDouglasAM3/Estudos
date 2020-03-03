@@ -1,0 +1,93 @@
+﻿@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<h3>Cadastro</h3>
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label class="control-label" for="nomeCliente">Nome do Cliente</label>
+                <input type="text" class="form-control" id="nomeCliente" placeholder="Nome do Cliente">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="email">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Email">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="telefone">Telefone</label>
+                <input type="text" class="form-control" id="telefone" placeholder="Telefone">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label class="control-label" for="endereco">Endereço</label>
+                <input type="text" class="form-control" id="endereco" placeholder="Endereço">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="complemento">Complemento</label>
+                <input type="text" class="form-control" id="complemento" placeholder="Complemento">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="bairro">Bairro</label>
+                <input type="text" class="form-control" id="bairro" placeholder="Bairro">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label class="control-label" for="municipio">Município</label>
+                <input type="text" class="form-control" id="municipio" placeholder="Município">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="UF">UF</label>
+                <select class="form-control single-select" name="UF">
+                    <option selected value="">[Selecione o estado]</option>
+                    <option value="AC">Acre</option>
+                    <option value="AL">Alagoas</option>
+                    <option value="AP">Amapá</option>
+                    <option value="AM">Amazonas</option>
+                    <option value="BA">Bahia</option>
+                    <option value="CE">Ceará</option>
+                    <option value="DF">Distrito Federal</option>
+                    <option value="ES">Espírito Santo</option>
+                    <option value="GO">Goiás</option>
+                    <option value="MA">Maranhão</option>
+                    <option value="MT">Mato Grosso</option>
+                    <option value="MS">Mato Grosso do Sul</option>
+                    <option value="MG">Minas Gerais</option>
+                    <option value="PA">Pará</option>
+                    <option value="PB">Paraíba</option>
+                    <option value="PR">Paraná</option>
+                    <option value="PE">Pernambuco</option>
+                    <option value="PI">Piauí</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="RN">Rio Grande do Norte</option>
+                    <option value="RS">Rio Grande do Sul</option>
+                    <option value="RO">Rondônia</option>
+                    <option value="RR">Roraima</option>
+                    <option value="SC">Santa Catarina</option>
+                    <option value="SP">São Paulo</option>
+                    <option value="SE">Sergipe</option>
+                    <option value="TO">Tocantins</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="cep">CEP</label>
+                <input type="text" class="form-control" id="cep" placeholder="CEP">
+            </div>
+
+            <div class="form-group">
+                <a class="btn btn-success" asp-action="carrossel">
+                    Continuar Comprando
+                </a>
+            </div>
+            <div class="form-group">
+                <button type="submit"
+                        class="btn btn-success">
+                    Finalizar Pedido
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

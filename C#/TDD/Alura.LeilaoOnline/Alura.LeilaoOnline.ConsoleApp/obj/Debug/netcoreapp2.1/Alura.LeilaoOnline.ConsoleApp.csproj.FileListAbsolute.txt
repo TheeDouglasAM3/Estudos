@@ -1,0 +1,14 @@
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.deps.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\Douglas\Desktop\ALURA\Aprendendo CSharp\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.pdb

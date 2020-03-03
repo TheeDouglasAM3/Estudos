@@ -1,0 +1,136 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Recursos", "_Recursos", "{A28E998F-BEBB-4D44-B58E-FDC4305848AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{89FD94ED-6C15-4940-B808-FA455F1F9A2F}"
+	ProjectSection(SolutionItems) = preProject
+		_Recursos\css\site.css = _Recursos\css\site.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dados", "dados", "{7B729AFF-9C27-42AA-9EAE-1CB9C47AAEE6}"
+	ProjectSection(SolutionItems) = preProject
+		_Recursos\dados\livros.json = _Recursos\dados\livros.json
+		_Recursos\dados\modelo.cs = _Recursos\dados\modelo.cs
+		_Recursos\dados\modelo.png = _Recursos\dados\modelo.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "logos", "logos", "{28F86A0D-F893-41A4-ACA9-ABF0D250145A}"
+	ProjectSection(SolutionItems) = preProject
+		_Recursos\logos\logo.png = _Recursos\logos\logo.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "produtos", "produtos", "{1999EB61-BD5A-4CFC-8BC7-EB1B9B857DBC}"
+	ProjectSection(SolutionItems) = preProject
+		_Recursos\produtos\large_001.jpg = _Recursos\produtos\large_001.jpg
+		_Recursos\produtos\large_002.jpg = _Recursos\produtos\large_002.jpg
+		_Recursos\produtos\large_003.jpg = _Recursos\produtos\large_003.jpg
+		_Recursos\produtos\large_004.jpg = _Recursos\produtos\large_004.jpg
+		_Recursos\produtos\large_005.jpg = _Recursos\produtos\large_005.jpg
+		_Recursos\produtos\large_006.jpg = _Recursos\produtos\large_006.jpg
+		_Recursos\produtos\large_007.jpg = _Recursos\produtos\large_007.jpg
+		_Recursos\produtos\large_008.jpg = _Recursos\produtos\large_008.jpg
+		_Recursos\produtos\large_009.jpg = _Recursos\produtos\large_009.jpg
+		_Recursos\produtos\large_010.jpg = _Recursos\produtos\large_010.jpg
+		_Recursos\produtos\large_011.jpg = _Recursos\produtos\large_011.jpg
+		_Recursos\produtos\large_012.jpg = _Recursos\produtos\large_012.jpg
+		_Recursos\produtos\large_013.jpg = _Recursos\produtos\large_013.jpg
+		_Recursos\produtos\large_014.jpg = _Recursos\produtos\large_014.jpg
+		_Recursos\produtos\large_015.jpg = _Recursos\produtos\large_015.jpg
+		_Recursos\produtos\large_016.jpg = _Recursos\produtos\large_016.jpg
+		_Recursos\produtos\large_017.jpg = _Recursos\produtos\large_017.jpg
+		_Recursos\produtos\large_018.jpg = _Recursos\produtos\large_018.jpg
+		_Recursos\produtos\large_019.jpg = _Recursos\produtos\large_019.jpg
+		_Recursos\produtos\large_020.jpg = _Recursos\produtos\large_020.jpg
+		_Recursos\produtos\large_021.jpg = _Recursos\produtos\large_021.jpg
+		_Recursos\produtos\large_022.jpg = _Recursos\produtos\large_022.jpg
+		_Recursos\produtos\large_023.jpg = _Recursos\produtos\large_023.jpg
+		_Recursos\produtos\large_024.jpg = _Recursos\produtos\large_024.jpg
+		_Recursos\produtos\large_025.jpg = _Recursos\produtos\large_025.jpg
+		_Recursos\produtos\large_026.jpg = _Recursos\produtos\large_026.jpg
+		_Recursos\produtos\large_027.jpg = _Recursos\produtos\large_027.jpg
+		_Recursos\produtos\large_028.jpg = _Recursos\produtos\large_028.jpg
+		_Recursos\produtos\large_029.jpg = _Recursos\produtos\large_029.jpg
+		_Recursos\produtos\large_030.jpg = _Recursos\produtos\large_030.jpg
+		_Recursos\produtos\large_031.jpg = _Recursos\produtos\large_031.jpg
+		_Recursos\produtos\large_032.jpg = _Recursos\produtos\large_032.jpg
+		_Recursos\produtos\large_033.jpg = _Recursos\produtos\large_033.jpg
+		_Recursos\produtos\large_034.jpg = _Recursos\produtos\large_034.jpg
+		_Recursos\produtos\large_035.jpg = _Recursos\produtos\large_035.jpg
+		_Recursos\produtos\large_036.jpg = _Recursos\produtos\large_036.jpg
+		_Recursos\produtos\large_037.jpg = _Recursos\produtos\large_037.jpg
+		_Recursos\produtos\large_038.jpg = _Recursos\produtos\large_038.jpg
+		_Recursos\produtos\large_039.jpg = _Recursos\produtos\large_039.jpg
+		_Recursos\produtos\large_040.jpg = _Recursos\produtos\large_040.jpg
+		_Recursos\produtos\large_041.jpg = _Recursos\produtos\large_041.jpg
+		_Recursos\produtos\large_042.jpg = _Recursos\produtos\large_042.jpg
+		_Recursos\produtos\large_043.jpg = _Recursos\produtos\large_043.jpg
+		_Recursos\produtos\large_044.jpg = _Recursos\produtos\large_044.jpg
+		_Recursos\produtos\large_045.jpg = _Recursos\produtos\large_045.jpg
+		_Recursos\produtos\large_046.jpg = _Recursos\produtos\large_046.jpg
+		_Recursos\produtos\large_047.jpg = _Recursos\produtos\large_047.jpg
+		_Recursos\produtos\large_048.jpg = _Recursos\produtos\large_048.jpg
+		_Recursos\produtos\large_049.jpg = _Recursos\produtos\large_049.jpg
+		_Recursos\produtos\large_050.jpg = _Recursos\produtos\large_050.jpg
+		_Recursos\produtos\large_051.jpg = _Recursos\produtos\large_051.jpg
+		_Recursos\produtos\large_052.jpg = _Recursos\produtos\large_052.jpg
+		_Recursos\produtos\large_053.jpg = _Recursos\produtos\large_053.jpg
+		_Recursos\produtos\large_054.jpg = _Recursos\produtos\large_054.jpg
+		_Recursos\produtos\large_055.jpg = _Recursos\produtos\large_055.jpg
+		_Recursos\produtos\large_056.jpg = _Recursos\produtos\large_056.jpg
+		_Recursos\produtos\large_057.jpg = _Recursos\produtos\large_057.jpg
+		_Recursos\produtos\large_058.jpg = _Recursos\produtos\large_058.jpg
+		_Recursos\produtos\large_059.jpg = _Recursos\produtos\large_059.jpg
+		_Recursos\produtos\large_060.jpg = _Recursos\produtos\large_060.jpg
+		_Recursos\produtos\large_061.jpg = _Recursos\produtos\large_061.jpg
+		_Recursos\produtos\large_062.jpg = _Recursos\produtos\large_062.jpg
+		_Recursos\produtos\large_063.jpg = _Recursos\produtos\large_063.jpg
+		_Recursos\produtos\large_064.jpg = _Recursos\produtos\large_064.jpg
+		_Recursos\produtos\large_065.jpg = _Recursos\produtos\large_065.jpg
+		_Recursos\produtos\livros.txt = _Recursos\produtos\livros.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "views-com-bootstrap", "views-com-bootstrap", "{67BBCF24-3967-443D-97DE-559909FAF72A}"
+	ProjectSection(SolutionItems) = preProject
+		_Recursos\views-com-bootstrap\_Layout.cshtml = _Recursos\views-com-bootstrap\_Layout.cshtml
+		_Recursos\views-com-bootstrap\Cadastro.cshtml = _Recursos\views-com-bootstrap\Cadastro.cshtml
+		_Recursos\views-com-bootstrap\Carrinho.cshtml = _Recursos\views-com-bootstrap\Carrinho.cshtml
+		_Recursos\views-com-bootstrap\Carrossel.cshtml = _Recursos\views-com-bootstrap\Carrossel.cshtml
+		_Recursos\views-com-bootstrap\Resumo.cshtml = _Recursos\views-com-bootstrap\Resumo.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{6474456B-3094-4366-B537-73466B93B359}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CasaDoCodigo", "CasaDoCodigo", "{BC06BC52-4BE8-44D8-8062-6AC245BFF722}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaDoCodigo", "Aulas\Aula1\CasaDoCodigo\CasaDoCodigo.csproj", "{178B613C-AD1F-4248-9312-E7D23D825D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178B613C-AD1F-4248-9312-E7D23D825D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178B613C-AD1F-4248-9312-E7D23D825D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178B613C-AD1F-4248-9312-E7D23D825D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178B613C-AD1F-4248-9312-E7D23D825D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89FD94ED-6C15-4940-B808-FA455F1F9A2F} = {A28E998F-BEBB-4D44-B58E-FDC4305848AB}
+		{7B729AFF-9C27-42AA-9EAE-1CB9C47AAEE6} = {A28E998F-BEBB-4D44-B58E-FDC4305848AB}
+		{28F86A0D-F893-41A4-ACA9-ABF0D250145A} = {A28E998F-BEBB-4D44-B58E-FDC4305848AB}
+		{1999EB61-BD5A-4CFC-8BC7-EB1B9B857DBC} = {A28E998F-BEBB-4D44-B58E-FDC4305848AB}
+		{67BBCF24-3967-443D-97DE-559909FAF72A} = {A28E998F-BEBB-4D44-B58E-FDC4305848AB}
+		{BC06BC52-4BE8-44D8-8062-6AC245BFF722} = {6474456B-3094-4366-B537-73466B93B359}
+		{178B613C-AD1F-4248-9312-E7D23D825D3D} = {BC06BC52-4BE8-44D8-8062-6AC245BFF722}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FED210B-3460-45CF-9C4D-877F0D63546F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿@{
+    string nomeUsuario = User.FindFirst("name")?.Value;
+    var claims = User.Claims.ToList();
+}
+
+@*
+    1) usuário logado: boas-vindas e opção sair
+    2) usuário desconectado: opção de login
+*@
+
+@if (!string.IsNullOrWhiteSpace(nomeUsuario))
+{
+    <form asp-controller="Conta" asp-action="Logout">
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a>Olá, @nomeUsuario !</a>
+            </li>
+            <li>
+                <button type="submit" class="btn btn-link navbar-btn navbar-link">Sair</button>
+            </li>
+        </ul>
+    </form>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a asp-controller="Conta" asp-action="Login">Entrar</a></li>
+    </ul>
+}

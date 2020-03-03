@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectName": "Alura.LeilaoOnline.Core",
+        "projectPath": "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
+        "projectName": "Alura.LeilaoOnline.Tests",
+        "projectPath": "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
+        "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+                "projectPath": "C:\\Users\\Douglas\\Desktop\\ALURA\\Aprendendo CSharp\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

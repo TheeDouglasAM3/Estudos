@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Catálogo de Produtos";
+}
+
+@model BuscaProdutosViewModel;
+
+<partial name="_BuscaProdutos" />
+
+@{
+    var produtos = Model.Produtos;
+
+    var categorias =
+        produtos
+            .Select(m => m.Categoria)
+            .Distinct();
+}
+
+@foreach (var categoria in categorias)
+{
+    var produtosNaCategoria =
+        produtos
+        .Where(p => p.Categoria.Id == categoria.Id);
+
+    <h3>@categoria.Nome</h3>
+
+    <div id="my-carousel-@categoria.Id" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            @{
+                const int TAMANHO_PAGINA = 4;
+
+                int paginas = (int)Math.Ceiling((double)produtosNaCategoria.Count() / TAMANHO_PAGINA);
+            }
+            @for (int pagina = 0; pagina < paginas; pagina++)
+            {
+
+                <div class="item @(pagina == 0 ? "active" : "")">
+                    <div class="row">
+                        @{
+                            var produtosDaPagina = produtosNaCategoria.Skip(pagina * TAMANHO_PAGINA).Take(TAMANHO_PAGINA);
+                        }
+                        @foreach (var produto in produtosDaPagina)
+                        {
+                            <partial name="_ProdutoCard" model="@produto" />
+                        }
+                    </div>
+                </div>
+
+            }
+        </div>
+        <!-- Controls -->
+        <partial name="_NavegacaoCarrossel" model="@categoria" />
+    </div>
+}
